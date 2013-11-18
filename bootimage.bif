@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]fsbl.elf
+	parallella_7020_top.bit
+	u-boot.elf
+}
